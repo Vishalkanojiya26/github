@@ -1,2 +1,4 @@
 this is my first file
 finally commited
+It's remote file
+i addded.
